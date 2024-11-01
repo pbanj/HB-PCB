@@ -1,3 +1,5 @@
+[Current Progress](https://github.com/pbanj/HB-PCB/discussions/1)
+
 # Pbanjs Console Mod & Repair Practice Board
 
 An actually useful learn to solder board that lets you get a feel for what it’s like to work on modding and repairing consoles.
