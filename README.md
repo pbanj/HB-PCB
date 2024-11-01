@@ -1,4 +1,4 @@
-[Current Progress](https://github.com/pbanj/HB-PCB/discussions/1)
+# >> [Current Progress](https://github.com/pbanj/HB-PCB/discussions/1)
 
 # Pbanjs Console Mod & Repair Practice Board
 
